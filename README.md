@@ -6,4 +6,4 @@ Link: https://www.youtube.com/playlist?list=PLmDEaZ20fWqCypV7S-trCPtVefHk4e0bU
 
 Currently at video No. 3. https://www.youtube.com/watch?v=LoeBgXSJWTw&list=PLmDEaZ20fWqCypV7S-trCPtVefHk4e0bU&index=4&t=
 
-![GDPLifeExp](https://github.com/Amrithril/RStudioExercise/plots/GDPLifeExp.png)
+![GDPLifeExp](https://raw.githubusercontent.com/Amrithril/RStudioExercise/plots/GDPLifeExp.png)
