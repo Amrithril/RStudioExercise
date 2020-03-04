@@ -141,3 +141,10 @@ ggplot(gapminder) +
  geom_violin(adjust = 1L, scale = "area") +
  scale_fill_hue() +
  theme_minimal()
+
+library(filesstrings)
+file.move("C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/faceted graph.png", "C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/plots")
+file.move("C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/horiz_bar_screen.png", "C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/plots")
+file.move("C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/logarithrmic population v continent plot.png", "C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/plots")
+file.move("C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/Continent image.png", "C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/plots")
+file.move("C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/rggplot2_intermediate.R", "C:/Users/Pritti/Desktop/Python/Git/Rstudioexercise/RstudioExercise/scripts")
